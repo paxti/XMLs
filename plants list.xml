@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plants>
+    <plant>
+        <description>Best in the world</description>
+        <id>1</id>
+        <name>ER-12</name>
+        <price>1500.0</price>
+    </plant>
+    <plant>
+        <description>Second best in the world </description>
+        <id>2</id>
+        <name>ETG-10</name>
+        <price>1200.0</price>
+    </plant>
+    <plant>
+        <description>Best in the world</description>
+        <id>3</id>
+        <name>ER-10</name>
+        <price>1200.0</price>
+    </plant>
+    <plant>
+        <description>Second Best in the world</description>
+        <id>4</id>
+        <name>TYU-110</name>
+        <price>1000.0</price>
+    </plant>
+</plants>
